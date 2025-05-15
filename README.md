@@ -42,13 +42,13 @@ QA Automation Tester | 🧪 SDET | Functional & Mobile Test Ninja 🥷
   <a href="mailto:Ankondhar888@gmail.com" target="_blank" style="display: inline-block; margin: 15px 25px;">
     <img src="https://www.svgrepo.com/show/485253/email-opened.svg" alt="Email Opened Icon" height="47" />
   </a>
-  <a href="[(https://dashing-hummingbird-1b4c54.netlify.app/)]" target="_blank" style="display: inline-block; margin: 15px 25px;">
+  <a href="[https://dashing-hummingbird-1b4c54.netlify.app/]" target="_blank" style="display: inline-block; margin: 15px 25px;">
     <img src="https://www.svgrepo.com/show/354513/vercel-icon.svg" alt="Vercel Icon" height="47" />
   </a>
-  <a href="https://www.linkedin.com/in/mohan-shil/" target="_blank" style="display: inline-block; margin: 15px 25px;">
+  <a href="[https://www.linkedin.com/in/ankon-dhar-626091307/" target="_blank" style="display: inline-block; margin: 15px 25px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="47" alt="LinkedIn" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~015c39fcbfad2d0cd9" target="_blank" style="display: inline-block; margin: 15px 25px;">
+  <a href="" target="_blank" style="display: inline-block; margin: 15px 25px;">
     <img src="https://cdn.simpleicons.org/upwork/6FDA44" height="47" alt="Upwork" />
   </a>
 </div>
